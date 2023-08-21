@@ -1,6 +1,6 @@
 # JavaTech4U - Empowering Your Tech Journey
 
-![JavaTech4U Logo](link_to_logo_image.png)
+![JavaTech4U Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAipq4Qv5cF33NDZADQINpxL80z2mL9tOGqnslHEyzbw&s)
 
 Welcome to JavaTech4U, your ultimate resource hub for a wide range of technology-related courses, services, and projects. Whether you're a beginner looking to learn the basics or an experienced tech enthusiast striving to stay updated, JavaTech4U has something for everyone.
 
@@ -56,5 +56,5 @@ JavaTech4U is created and maintained by:
 **[Manu Pathak](link_to_author_profile)**  
 Tech Enthusiast and Educator  
 Contact: pathakmanu174@gmail.com  
-LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/manu-pathak-106820202/)
+LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/manu-pathak-106820202/)  
 Twitter: [@pathakmanu](https://twitter.com/ManuPathak56767)
