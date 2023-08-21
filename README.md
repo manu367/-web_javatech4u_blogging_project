@@ -53,8 +53,8 @@ These projects serve as both learning resources and sources of inspiration for y
 
 JavaTech4U is created and maintained by:
 
-**[Your Name](link_to_author_profile)**  
+**[Manu Pathak](link_to_author_profile)**  
 Tech Enthusiast and Educator  
-Contact: your.email@example.com  
-LinkedIn: [Your LinkedIn Profile](link_to_linkedin_profile)
-Twitter: [@yourTwitterHandle](link_to_twitter_profile)
+Contact: pathakmanu174@gmail.com  
+LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/manu-pathak-106820202/)
+Twitter: [@pathakmanu](https://twitter.com/ManuPathak56767)
